@@ -13,5 +13,4 @@ The website has a navigation menu at the top of each page and each page is respo
 HTML - Bootstrap
 
 
-## **Website:**
-https://armin-1337.github.io/Weather-web-visualization
+## **[Website *CLICK FOR VISUALIZATION*](https://armin-1337.github.io/Weather-web-visualization)**
